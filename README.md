@@ -85,3 +85,8 @@ While the initial version of the script was generated using ChatGPT, I made the 
 5. **Testing**
    - Created and tested the script with a custom `sample.csv` file to verify functionality.
    - Checked both small datasets (students’ scores) and larger datasets for robustness.
+
+
+
+https://github.com/user-attachments/assets/6cafc5dc-158a-4f13-8ec3-a349922b97ca
+
